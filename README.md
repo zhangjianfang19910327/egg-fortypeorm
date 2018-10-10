@@ -1,4 +1,4 @@
-# egg-typeorm
+# egg-fortypeorm
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-typeorm --save
+$ npm i egg-fortypeorm --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm i egg-typeorm --save
 // {app_root}/config/plugin.js
 exports.typeorm = {
   enable: true,
-  package: 'egg-typeorm',
+  package: 'egg-fortypeorm',
 };
 ```
 
