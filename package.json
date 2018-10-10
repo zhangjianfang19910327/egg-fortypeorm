@@ -1,7 +1,7 @@
 {
   "name": "egg-fortypeorm",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "a plugin for egg to solve the orm",
   "eggPlugin": {
     "name": "typeorm"
   },
@@ -53,7 +53,7 @@
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-typeorm#readme",
+  "homepage": "https://github.com/zhangjianfang19910327/egg-fortypeorm#readme",
   "author": "zjf",
   "license": "MIT"
 }
