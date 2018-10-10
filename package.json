@@ -1,6 +1,6 @@
 {
   "name": "egg-fortypeorm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a plugin for egg to solve the orm",
   "eggPlugin": {
     "name": "typeorm"
