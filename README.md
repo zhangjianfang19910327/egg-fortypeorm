@@ -11,10 +11,10 @@
 [npm-url]: https://npmjs.org/package/egg-fortypeorm
 [travis-image]: https://img.shields.io/travis/zhangjianfang19910327/egg-fortypeom.svg
 [travis-url]: https://travis-ci.org/zhangjianfang19910327/egg-fortypeom
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-fortypeorm.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-fortypeorm?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-fortypeorm.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-fortypeorm
+[codecov-image]: https://img.shields.io/codecov/c/github/zhangjianfang19910327/egg-fortypeorm.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/zhangjianfang19910327/egg-fortypeorm?branch=master
+[david-image]: https://img.shields.io/david/zhangjianfang19910327/egg-fortypeorm.svg?style=flat-square
+[david-url]: https://david-dm.org/zhangjianfang19910327/egg-fortypeorm
 [snyk-image]: https://snyk.io/test/npm/egg-fortypeorm/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-fortypeorm
 [download-image]: https://img.shields.io/npm/dm/egg-fortypeorm.svg?style=flat-square
