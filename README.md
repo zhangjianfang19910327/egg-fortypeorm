@@ -9,7 +9,7 @@
 
 [npm-image]: https://img.shields.io/npm/v/egg-typeorm.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-typeorm
-[travis-image]: https://img.shields.io/travis/eggjs/egg-typeorm.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/:user/:repo.svg
 [travis-url]: https://travis-ci.org/eggjs/egg-typeorm
 [codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-typeorm.svg?style=flat-square
 [codecov-url]: https://codecov.io/github/eggjs/egg-typeorm?branch=master
