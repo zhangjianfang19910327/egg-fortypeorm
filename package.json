@@ -1,5 +1,5 @@
 {
-  "name": "egg-typeorm",
+  "name": "egg-fortypeorm",
   "version": "1.0.0",
   "description": "",
   "eggPlugin": {
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-typeorm.git"
+    "url": "git+https://github.com/zhangjianfang19910327/egg-fortypeorm.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
