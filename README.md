@@ -10,6 +10,7 @@
 [npm-image]: https://img.shields.io/npm/v/egg-fortypeorm.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-fortypeorm
 [travis-image]: https://img.shields.io/travis/zhangjianfang19910327/egg-fortypeorm.svg?branch=master
+[travis-image]: https://travis-ci.com/zhangjianfang19910327/egg-fortypeorm.svg?branch=master
 [travis-url]: https://travis-ci.org/zhangjianfang19910327/egg-fortypeorm
 [codecov-image]: https://img.shields.io/codecov/c/github/zhangjianfang19910327/egg-fortypeorm.svg?style=flat-square
 [codecov-url]: https://codecov.io/github/zhangjianfang19910327/egg-fortypeorm?branch=master
