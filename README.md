@@ -7,8 +7,8 @@
 
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-typeorm.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-typeorm
+[npm-image]: https://img.shields.io/npm/v/egg-fortypeorm.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/egg-fortypeorm
 [travis-image]: https://img.shields.io/travis/zhangjianfang19910327/egg-typeom.svg
 [travis-url]: https://travis-ci.org/zhangjianfang19910327/egg-typeom
 [codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-typeorm.svg?style=flat-square
