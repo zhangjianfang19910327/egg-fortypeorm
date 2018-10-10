@@ -59,7 +59,20 @@ exports.typeorm = {
 see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Example
-
+```js
+export default class HomeController extends Controller {
+  public async index() {
+    const { ctx } = this;
+    
+    const photo = new Photo();
+    photo.name = 'P1';
+    photo.fileName = 'p1.png';
+    photo.isPublished = true;
+    photo.views = 0;
+     ctx.body = await ctx.connection.manager.save(photo);
+  }
+}
+```
 <!-- example here -->
 
 ## Questions & Suggestions
