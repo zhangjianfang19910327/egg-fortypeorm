@@ -45,7 +45,14 @@ exports.typeorm = {
 ```js
 // {app_root}/config/config.default.js example:
 exports.typeorm = {
-
+    type: "mysql",
+    host: "127.0.0.1",
+    port: 3306,
+    username: "root",
+    password: "xxx",
+    database: "test",
+    synchronize: true,
+    entities:[Photo]
 };
 ```
 
